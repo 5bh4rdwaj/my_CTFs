@@ -1,0 +1,5 @@
+never heard of netcat before. apparently its used to read and write INTO network connections. 
+The challenge gave me nothing but this command: "$ nc mercury.picoctf.net 49039" which when I ran in the terminal i got a bunch of numbers. 
+I output those numbers in a file title flag.txt using : "nc mercury.picoctf.net 49039 >> text.txt"
+In the hints of the challenge it said to attend a class on ascii manupilation and stuff, so opened a ascii to text converter in the browser and copied the content of the flag file and got the flag.
+This was fun
