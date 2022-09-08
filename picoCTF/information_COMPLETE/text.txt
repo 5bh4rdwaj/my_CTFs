@@ -1,0 +1,4 @@
+//install exif tools
+
+Check 'License', the gibberish is actuallt a Base 64.
+Put it in a converted and you will have the flag
